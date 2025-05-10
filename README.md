@@ -21,14 +21,14 @@
 - **ARCore** (marker-based AR)  
 - **ONNX + Barracuda** (image classification in Unity)  
 - **Blender** (3D animation)  
-- **Firebase** (future integration for backend support)
+
 
 ---
 
 ## 🧬 How It Works
 
-1. **Scan a Real Object**  
-   The camera captures the image of a leaf or flower.
+1. **Upload the image**  
+   Upload the image of a leaf or flower.
 
 2. **Run Image Classification**  
    A trained ONNX model predicts the object category (Leaf or Flower).
